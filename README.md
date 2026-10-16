@@ -1,0 +1,1 @@
+# bash-disk-guardian-script
